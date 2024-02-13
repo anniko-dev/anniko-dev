@@ -28,6 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-5B5C5F?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-5B5C5F?style=for-the-badge&logo=sass)
 ![DOCKER](https://img.shields.io/badge/-docker-5B5C5F?style=for-the-badge&logo=docker)
+![GO](https://img.shields.io/badge/-docker-gray?style=for-the-badge&logo=go)
 
 ### 📫 Как со мной связаться:
 <ul>
