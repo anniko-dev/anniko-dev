@@ -32,7 +32,7 @@
 
 ### 📫 Как со мной связаться:
 <ul>
-  <li>Email: <a href="mailto:example@annikodev@gmail.com">annikodev@gmail.com</a> </li>
+  <li>Email: <a href="mailto:annikodev@gmail.com">annikodev@gmail.com</a> </li>
   <li>Telegram: <a href='https://t.me/annikodev'>@annikodev</a></li>
 </ul>
 
