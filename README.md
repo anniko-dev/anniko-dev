@@ -32,6 +32,12 @@
 ![NESTJS](https://img.shields.io/badge/-nest_JS-gray?style=for-the-badge&logo=nestjs)
 ![PRISMA](https://img.shields.io/badge/-PRISMA-gray?style=for-the-badge&logo=prisma)
 
+##
+
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anniko-dev\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
+
+
+
 ### 📫 Как со мной связаться:
 <ul>
   <li>Email: <a href="mailto:annikodev@gmail.com">annikodev@gmail.com</a> </li>
