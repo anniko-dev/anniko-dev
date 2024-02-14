@@ -31,6 +31,8 @@
 ![GOLANG](https://img.shields.io/badge/-go-gray?style=for-the-badge&logo=go)
 ![NESTJS](https://img.shields.io/badge/-nest_JS-gray?style=for-the-badge&logo=nestjs)
 ![PRISMA](https://img.shields.io/badge/-PRISMA-gray?style=for-the-badge&logo=prisma)
+![EXPRESS](https://img.shields.io/badge/-express_js-gray?style=for-the-badge&logo=express)
+![POSTGRESQL](https://img.shields.io/badge/-postgresql-gray?style=for-the-badge&logo=postgresql)
 
 ##
 
