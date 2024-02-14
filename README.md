@@ -30,6 +30,7 @@
 ![DOCKER](https://img.shields.io/badge/-docker-5B5C5F?style=for-the-badge&logo=docker)
 ![GOLANG](https://img.shields.io/badge/-go-gray?style=for-the-badge&logo=go)
 ![NESTJS](https://img.shields.io/badge/-nest_JS-gray?style=for-the-badge&logo=nestjs)
+![PRISMA](https://img.shields.io/badge/-PRISMA-gray?style=for-the-badge&logo=prisma)
 
 ### 📫 Как со мной связаться:
 <ul>
