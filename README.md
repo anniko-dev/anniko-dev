@@ -34,7 +34,7 @@
 ![PRISMA](https://img.shields.io/badge/-PRISMA-343942?style=for-the-badge&logo=prisma)
 ![EXPRESS](https://img.shields.io/badge/-express_js-343942?style=for-the-badge&logo=express)
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-343942?style=for-the-badge&logo=postgresql)
-
+![VUE](https://img.shields.io/badge/-postgresql-343942?style=for-the-badge&logo=vue)
 ##
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anniko-dev\&show_icons=true\&title_color=fff\&icon_color=FD8AC9\&text_color=F7F7F7\&bg_color=343942)
